@@ -4,8 +4,8 @@
 Python, Pandas, Excel
 
 ### Files
-notebooks/analysis.ipynb
-data/store_data.csv
+* `notebooks/analysis.ipynb`
+* `data/store_data.csv`
 
 ### Objective
 Measure impact of new store initiatives on sales, labor efficiency, and operator workload.
